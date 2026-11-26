@@ -12,8 +12,8 @@ prebuilt search index. You need one free API key and about three minutes.
 ### 1. Install
 
 ```bash
-git clone <REPO_URL>
-cd week3/ytscraper
+git clone <https://github.com/Sanketborhade33/yt_rag_dsa>
+cd ytscraper
 uv sync
 ```
 
