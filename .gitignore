@@ -1,0 +1,13 @@
+@"
+.env
+.venv/
+__pycache__/
+*.pyc
+*.zip
+audio/
+*.json.tmp
+.vscode/
+"@ | Out-File -Encoding utf8 .gitignore
+.env
+.venv/
+__pycache__/
