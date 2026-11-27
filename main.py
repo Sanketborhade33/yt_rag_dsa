@@ -9,3 +9,8 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+
+def test_divide(a,b):
+    return a / b
