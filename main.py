@@ -14,3 +14,4 @@ if __name__ == "__main__":
 
 def test_divide(a,b):
     return a / b
+    return result
